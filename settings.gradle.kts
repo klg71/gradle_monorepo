@@ -8,3 +8,6 @@
  */
 
 rootProject.name = "gradle_monorepo"
+include("kotlin_blog")
+include("java_blog")
+include("devops_blog")
